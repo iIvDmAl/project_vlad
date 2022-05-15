@@ -60,7 +60,7 @@ int main()
     }
     else 
     {
-        printf("\n\tERROR bleat'\n\n\t\t:(\n\n");
+        printf("\n\tERROR bleat'\n\n\t\t:(\n\ngit merge");
     }
     return 0;
 }
